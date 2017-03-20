@@ -1,0 +1,17 @@
+{
+    "name": "rataciber/php-microtime-float",
+    "description": "Get a more accurate time, using microtime as float",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Roldan Araujo",
+            "email": "mroldan@webmonster.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "5.7.x-dev"
+    }
+}
